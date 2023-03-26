@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\projetos\\chaoticdreams\\chaoticdreams\\intermediate\\build\\win64\\unrealeditor\\inc\\chaoticdreams\\uht\\chaoticdreamsgamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projetos\\chaoticdreams\\chaoticdreams\\intermediate\\build\\win64\\chaoticdreamseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\projetos\\chaoticdreams\\chaoticdreams\\intermediate\\build\\win64\\unrealeditor\\development\\chaoticdreams\\definitions.chaoticdreams.h",
+            "d:\\projetos\\chaoticdreams\\chaoticdreams\\source\\chaoticdreams\\chaoticdreamsgamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\projetos\\chaoticdreams\\chaoticdreams\\intermediate\\build\\win64\\unrealeditor\\inc\\chaoticdreams\\uht\\chaoticdreamsgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

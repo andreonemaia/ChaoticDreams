@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ChaoticDreams.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Projetos\ChaoticDreams\ChaoticDreams\Intermediate\Build\Win64\ChaoticDreamsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Projetos\ChaoticDreams\ChaoticDreams\Intermediate\Build\Win64\UnrealEditor\Development\ChaoticDreams\ChaoticDreams.init.gen.cpp.obj"
+"D:\Projetos\ChaoticDreams\ChaoticDreams\Intermediate\Build\Win64\UnrealEditor\Development\ChaoticDreams\ChaoticDreamsGameModeBase.gen.cpp.obj"
+"D:\Projetos\ChaoticDreams\ChaoticDreams\Intermediate\Build\Win64\UnrealEditor\Development\ChaoticDreams\ChaoticDreams.cpp.obj"
+"D:\Projetos\ChaoticDreams\ChaoticDreams\Intermediate\Build\Win64\UnrealEditor\Development\ChaoticDreams\ChaoticDreamsGameModeBase.cpp.obj"
+"D:\Projetos\ChaoticDreams\ChaoticDreams\Intermediate\Build\Win64\UnrealEditor\Development\ChaoticDreams\Default.rc2.res"
+/OUT:"D:\Projetos\ChaoticDreams\ChaoticDreams\Intermediate\Build\Win64\UnrealEditor\Development\ChaoticDreams\UnrealEditor-ChaoticDreams.lib"

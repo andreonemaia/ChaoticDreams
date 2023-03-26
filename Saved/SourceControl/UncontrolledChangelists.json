@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Projetos/ChaoticDreams/Content/HeroChar/BP_HeroChar.uasset",
+				"D:/Projetos/ChaoticDreams/Content/Maps/02Gameplay.umap",
+				"D:/Projetos/ChaoticDreams/Content/GameLogic/BP_GameplayGameMode.uasset",
+				"D:/Projetos/ChaoticDreams/Content/StarterContent/Props/Materials/M_Bush.uasset",
+				"D:/Projetos/ChaoticDreams/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"D:/Projetos/ChaoticDreams/Content/HeroChar/Materials/M_App.uasset",
+				"D:/Projetos/ChaoticDreams/Content/HeroChar/Materials/MI_Hero_Y.uasset",
+				"D:/Projetos/ChaoticDreams/Content/HeroChar/Animations/FirstPerson_Fire.uasset",
+				"D:/Projetos/ChaoticDreams/Content/HeroChar/Animations/FirstPerson_Idle.uasset",
+				"D:/Projetos/ChaoticDreams/Content/HeroChar/Animations/FirstPerson_JumpEnd.uasset",
+				"D:/Projetos/ChaoticDreams/Content/HeroChar/Animations/FirstPerson_JumpLoop.uasset",
+				"D:/Projetos/ChaoticDreams/Content/HeroChar/Animations/FirstPerson_JumpStart.uasset",
+				"D:/Projetos/ChaoticDreams/Content/HeroChar/Animations/FirstPerson_Run.uasset",
+				"D:/Projetos/ChaoticDreams/Content/HeroChar/Animations/ABP_Hero.uasset",
+				"D:/Projetos/ChaoticDreams/Content/HeroChar/Materials/MI_Hero_Inst.uasset",
+				"D:/Projetos/ChaoticDreams/ChaoticDreams/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/Projetos/ChaoticDreams/ChaoticDreams/Content/Maps/02Gameplay.umap",
+				"D:/Projetos/ChaoticDreams/ChaoticDreams/Content/GameLogic/BP_GameplayGameMode.uasset",
+				"D:/Projetos/ChaoticDreams/ChaoticDreams/Content/GameLogic/BP_GameplayGameState.uasset",
+				"D:/Projetos/ChaoticDreams/ChaoticDreams/Content/GameLogic/BP_HeroController.uasset",
+				"D:/Projetos/ChaoticDreams/ChaoticDreams/Content/StarterContent/Architecture/Floor_400x400.uasset"
+			]
+		}
+	]
+}

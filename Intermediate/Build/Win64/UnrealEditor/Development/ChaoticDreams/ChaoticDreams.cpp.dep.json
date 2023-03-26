@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\projetos\\chaoticdreams\\chaoticdreams\\source\\chaoticdreams\\chaoticdreams.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projetos\\chaoticdreams\\chaoticdreams\\intermediate\\build\\win64\\chaoticdreamseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\projetos\\chaoticdreams\\chaoticdreams\\intermediate\\build\\win64\\unrealeditor\\development\\chaoticdreams\\definitions.chaoticdreams.h",
+            "d:\\projetos\\chaoticdreams\\chaoticdreams\\source\\chaoticdreams\\chaoticdreams.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

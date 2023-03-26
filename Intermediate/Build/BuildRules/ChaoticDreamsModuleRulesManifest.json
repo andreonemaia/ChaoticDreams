@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Projetos\\ChaoticDreams\\ChaoticDreams\\Source\\ChaoticDreams\\ChaoticDreams.Build.cs",
+		"D:\\Projetos\\ChaoticDreams\\ChaoticDreams\\Source\\ChaoticDreams.Target.cs",
+		"D:\\Projetos\\ChaoticDreams\\ChaoticDreams\\Source\\ChaoticDreamsEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.0"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ChaoticDreams",
+			"Path": "D:\\Projetos\\ChaoticDreams\\ChaoticDreams\\Source\\ChaoticDreams.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ChaoticDreamsEditor",
+			"Path": "D:\\Projetos\\ChaoticDreams\\ChaoticDreams\\Source\\ChaoticDreamsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
